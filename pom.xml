@@ -12,6 +12,7 @@
         <module>TicketRobert</module>
         <module>VolatileDemo</module>
         <module>Singleton</module>
+        <module>CASAndAQS</module>
     </modules>
 
 
