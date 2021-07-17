@@ -24,7 +24,7 @@ public class FightQueryDemo {
 
         // 三个航空公司三个线程,每个线程查询各自的航班信息
         Thread[] threads = new Thread[company.size()];
-        // countDown(): 构造一个用给定计数初始化的 CountDownLatch
+        // 构造一个用给定计数初始化的 CountDownLatch
         // company.size(): 等待线程执行完的数量
         CountDownLatch latch = new CountDownLatch(company.size());
 
@@ -39,8 +39,7 @@ public class FightQueryDemo {
                     // 将查询到的数据进行存储
                     fightList.add(name + "--" + val);
                     System.out.printf("%s 公司查询成功！\n", name);
-                    // countDown(): 递减锁存器的计数,如果计数为零则释放所有等待的线程
-                    // 以任务为单位
+                    // countDown(): 递减锁存器的计数[count - 1],如果计数为零则释放所有等待的线程[以任务为单位]
                     latch.countDown();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
