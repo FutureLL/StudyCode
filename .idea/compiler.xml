@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="TicketRobert" />
+        <module name="ConcurrenceGather" />
+        <module name="CASAndAQS" />
         <module name="Singleton" />
         <module name="VolatileDemo" />
       </profile>

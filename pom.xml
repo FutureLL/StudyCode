@@ -13,6 +13,7 @@
         <module>VolatileDemo</module>
         <module>Singleton</module>
         <module>CASAndAQS</module>
+        <module>ConcurrenceGather</module>
     </modules>
 
 

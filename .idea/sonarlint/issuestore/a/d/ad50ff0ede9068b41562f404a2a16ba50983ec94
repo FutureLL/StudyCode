@@ -1,0 +1,11 @@
+
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ğííüÿÿÿÿ8Ü€æª/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(¦á«ä8Ü€æª/
+s
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(˜ü­ˆùÿÿÿÿ8Ü€æª/
+c
+java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ü€æª/
+s
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(Ğííüÿÿÿÿ8Ü€æª/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(˜ü­ˆùÿÿÿÿ8Ü€æª/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ßÑŒ‚ûÿÿÿÿ8Ü€æª/

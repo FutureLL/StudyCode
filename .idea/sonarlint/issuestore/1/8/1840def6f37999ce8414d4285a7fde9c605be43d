@@ -1,0 +1,5 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ªµúÿÿÿÿ8Ò”Õãª/
+N
+java:S1602",Remove useless curly braces around statement(Å•ø¥ıÿÿÿÿ8æ¤Ğãª/
+h	java:S116"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âû´ü8Éˆíâª/

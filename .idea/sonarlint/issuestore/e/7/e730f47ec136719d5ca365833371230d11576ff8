@@ -1,0 +1,8 @@
+
+N
+java:S1602",Remove useless curly braces around statement(Å•ø¥ıÿÿÿÿ8Úó½âª/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(åÏøúÿÿÿÿ8¨Áâª/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8óÒ¿âª/
+h	java:S116"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âû´ü8ÔôÌãª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó‡áïıÿÿÿÿ8Úó½âª/
