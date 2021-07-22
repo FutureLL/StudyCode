@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="VolatileDemo" />
         <module name="TicketRobert" />
-        <module name="ConcurrenceGather" />
         <module name="CASAndAQS" />
         <module name="Singleton" />
-        <module name="VolatileDemo" />
+        <module name="ConcurrenceGather" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
