@@ -59,3 +59,7 @@ p
 @ConcurrenceGather/src/main/java/com/futurell/CollectionDemo.java,9/1/91bb4980ba2a75b0b552589a50bb7bfd65e45508
 r
 BConcurrenceGather/src/main/java/com/futurell/CollectionDemo01.java,a/8/a8bd0542b9532d5c8cd03148b7bff87153925fcd
+p
+@ConcurrenceGather/src/main/java/com/futurell/BlockDequeDemo.java,8/5/850b55d7a7605ada37847b9f4a2f71b2c78f32ce
+m
+=ConcurrenceGather/src/main/java/com/futurell/HashMapDemo.java,7/0/702ce002e1d287a09b66bde060f214ab155d1d30
