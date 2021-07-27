@@ -54,6 +54,11 @@ public class ThreadExecutorPoolDemo {
             e.printStackTrace();
         } finally {
             threadPoolExecutor.shutdown();
+            // 判断线程池是否结束
+            while (!threadPoolExecutor.isTerminated()) {
+
+            }
+            System.out.println("FINISHED!!!");
         }
     }
 }
