@@ -1,0 +1,1 @@
+package com.future.dubbo.service;/** * @Description: * @Author: lilei58 * @Date: Created in 2022/1/16 上午12:56 */public interface Hello {    String sayHello(String name);    String javaSpi(String name);}
