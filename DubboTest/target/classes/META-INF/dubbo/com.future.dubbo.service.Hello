@@ -1,0 +1,1 @@
+helloImpl = com.future.dubbo.service.impl.HelloImplchinaHelloImpl = com.future.dubbo.service.impl.ChinaHelloImpl# helloWrapper = com.future.dubbo.service.impl.HelloWrapper# helloWrapper2 = com.future.dubbo.service.impl.HelloWrapper2# AdaptiveImpl = com.future.dubbo.service.impl.AdaptiveImpl

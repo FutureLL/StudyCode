@@ -97,3 +97,13 @@ f
 6DubboTest/src/main/java/com/future/dubbo/DubboSPI.java,0/a/0ada67156d1cf54c3e627d47e797a2a9bfc3cb66
 e
 5DubboTest/src/main/java/com/future/dubbo/JavaSPI.java,e/6/e6ec835bf4075ec7867f14c0f67e1fb1f21886f5
+w
+GDubboTest/src/main/java/com/future/dubbo/service/impl/HelloWrapper.java,8/a/8ac3731c2dafbc791358fc0b92c51a4c1df381df
+x
+HDubboTest/src/main/java/com/future/dubbo/service/impl/HelloWrapper2.java,7/b/7bca576d8ae3aa20801cd30403641d79d23c8f17
+y
+IDubboTest/src/main/java/com/future/dubbo/service/impl/ChinaHelloImpl.java,4/1/41a1247ef0beaac59340f6441d33bd0bb75531f2
+g
+7DubboTest/src/main/java/com/future/dubbo/HelloDemo.java,1/5/150b606d725c19926c4f1328edd8aa2cbe88b63c
+w
+GDubboTest/src/main/java/com/future/dubbo/service/impl/AdaptiveImpl.java,3/e/3e68f99ab0533fbdd9e04ede1ab5c190ee3211ed
