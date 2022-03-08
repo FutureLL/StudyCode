@@ -1,9 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¸Íœ¯
-\
-java:S2142'"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Z
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(´¥¿'
-S	java:S106#"9Replace this use of System.out or System.err by a logger.(”¾ÁÈûÿÿÿÿ
-k
-java:S3008"URename this field "INIT_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹

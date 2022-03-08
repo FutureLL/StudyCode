@@ -1,8 +1,0 @@
-
-Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¹øý‡úÿÿÿÿ8˜Žùˆ¬/
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(ï…Æ™8Ã øˆ¬/
-c
-java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ìð÷ˆ¬/
-T
-java:S1481"2Remove this unused "semaphoreFair" local variable.(Žð‹£ùÿÿÿÿ8—Øþ‡¬/
-U	java:S106!"9Replace this use of System.out or System.err by a logger.(çåô„8×–úˆ¬/

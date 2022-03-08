@@ -1,5 +1,0 @@
-
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(È®°úÿÿÿÿ8Ï’„æª/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(šÍí‰8Ï’„æª/
-t
-java:S3008"WRename this field "PERSON_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¿ƒ—8âÂÍ¥«/

@@ -1,11 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(±éÂÒùÿÿÿÿ8ÆÁáâª/
-B
-java:S1068"%Remove this unused "M" private field.(áÊëÚ8èÿİâª/
-b
-java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÊëÚ
-I
-java:S1612",Replace this lambda with a method reference.(¥—ığ8Ä›æâª/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ı³ÓÆ8ë“áâª/
-I
-java:S1602",Remove useless curly braces around statement(¥—ığ8Ä›æâª/
